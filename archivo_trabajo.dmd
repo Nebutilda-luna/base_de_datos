@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="archivo_trabajo" id="B972A8C5-CA1C-112D-2ED9-BE1515F5DD2D" version="3.5">
+<createdBy>lunan</createdBy>
+<createdTime>2026-10-22 00:52:14 UTC</createdTime>
+<ownerDesignName>archivo_trabajo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B972A8C5-CA1C-112D-2ED9-BE1515F5DD2D</designId>
+</OSDM_Design>
